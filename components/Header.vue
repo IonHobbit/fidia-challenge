@@ -2,9 +2,9 @@
   <div>
     <div class="header responsive-wrapper py-4">
       <div class="lg:flex lg:items-center lg:gap-x-4">
-        <NuxtLink to="/">
+        <div>
           <img src="/untitled-logo.svg" />
-        </NuxtLink>
+        </div>
         <div id="navigation" class="hidden lg:flex items-center gap-x-2">
           <NuxtLink to="/home">Home</NuxtLink>
           <NuxtLink to="/">Dashboard</NuxtLink>
